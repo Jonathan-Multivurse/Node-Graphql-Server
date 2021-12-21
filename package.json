@@ -1,0 +1,39 @@
+{
+  "name": "deepy-server",
+  "version": "1.0.0",
+  "description": "express server for deepy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "Jonathan Daniels",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.20.0",
+    "aws-sdk": "^2.867.0",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "graphql": "^15.5.0",
+    "graphql-middleware": "^6.0.4",
+    "graphql-shield": "^7.5.0",
+    "graphql-upload": "^11.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.11.15",
+    "path": "^0.12.7",
+    "randomstring": "^1.1.5",
+    "sharp": "^0.27.2",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+  
+}
