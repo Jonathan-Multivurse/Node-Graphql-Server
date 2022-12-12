@@ -1,1 +1,1 @@
-# JS-Container
+# A Node.js server with GraphQL
