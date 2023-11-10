@@ -1,1 +1,1 @@
-# A Node + GraphQL server
+# Node + GraphQL
